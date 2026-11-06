@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cinemundo_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ad640b5ee4893ef8c7cac5b21845f2112c88a83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b61571e13797971b391926101a0ee06fd87f5b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("cinemundo_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cinemundo_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

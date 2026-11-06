@@ -6219,11 +6219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etec\\Cinemundo\\cinemundo_api\\cinemundo_api.csproj",
+      "projectUniqueName": "C:\\Users\\etec\\Desktop\\Cinemundo\\cinemundo_api\\cinemundo_api.csproj",
       "projectName": "cinemundo_api",
-      "projectPath": "C:\\Users\\etec\\Cinemundo\\cinemundo_api\\cinemundo_api.csproj",
+      "projectPath": "C:\\Users\\etec\\Desktop\\Cinemundo\\cinemundo_api\\cinemundo_api.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etec\\Cinemundo\\cinemundo_api\\obj\\",
+      "outputPath": "C:\\Users\\etec\\Desktop\\Cinemundo\\cinemundo_api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6739,7 +6739,7 @@
       "code": "NU1901",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "O pacote 'NuGet.Packaging' 6.12.1 tem uma baixa vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -6749,7 +6749,7 @@
       "code": "NU1901",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "O pacote 'NuGet.Protocol' 6.12.1 tem uma baixa vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"

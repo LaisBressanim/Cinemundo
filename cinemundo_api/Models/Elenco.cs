@@ -13,7 +13,7 @@ public partial class Elenco
 
     public string? ElencoPersonagens { get; set; }
 
-    public virtual Atore Ator { get; set; } = null!;
+    public virtual Atore? Ator { get; set; }
 
-    public virtual Filme Filme { get; set; } = null!;
+    public virtual Filme? Filme { get; set; }
 }
