@@ -511,3 +511,4 @@ C:\Users\etec\Desktop\Cinemundo\cinemundo_api\obj\Debug\net10.0\refint\cinemundo
 C:\Users\etec\Desktop\Cinemundo\cinemundo_api\obj\Debug\net10.0\cinemundo_api.pdb
 C:\Users\etec\Desktop\Cinemundo\cinemundo_api\obj\Debug\net10.0\cinemundo_api.genruntimeconfig.cache
 C:\Users\etec\Desktop\Cinemundo\cinemundo_api\obj\Debug\net10.0\ref\cinemundo_api.dll
+C:\Users\etec\Cinemundo\cinemundo_api\bin\Debug\net10.0\package-lock.json
